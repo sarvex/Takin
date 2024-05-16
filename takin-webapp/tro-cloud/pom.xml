@@ -77,7 +77,7 @@
         <freemarker.version>2.3.30</freemarker.version>
         <mybatis.version>3.5.7</mybatis.version>
         <swagger.version>1.5.22</swagger.version>
-        <hutool.version>5.5.9</hutool.version>
+        <hutool.version>5.8.21</hutool.version>
     </properties>
 
     <modules>
